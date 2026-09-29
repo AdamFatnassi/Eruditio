@@ -22,8 +22,8 @@ By the end of this chapter, you should be able to:
 | Notebook                       | Description                                                  | Status      |
 | ------------------------------ | ------------------------------------------------------------ | ----------- |
 | 01 - Distributional Hypothesis | Word context and co-occurrence statistics                    | In progress |
-| 02 - LSA and SVD               | Latent semantic representations through matrix factorization | Planned     |
-| 03 - Neural Bigram Embeddings  | Learning embeddings through next-word prediction             | Planned     |
+| 02 - LSA and SVD               | Latent semantic representations through matrix factorization | Done        |
+| 03 - Neural Bigram Embeddings  | Learning embeddings through next-word prediction             | Done        |
 | 04 - Word2Vec                  | CBOW, Skip-gram and negative sampling                        | Planned     |
 | 05 - GloVe                     | Global co-occurrence statistics and embedding learning       | Planned     |
 | 06 - Embedding Evaluation      | Similarity, analogies and visualization                      | Planned     |
